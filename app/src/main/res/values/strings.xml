@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Open Weather</string>
+
+    <!-- Edit text name -->
+    <string name="enter_zip_code">Enter Zip Code</string>
+
+    <!-- Text view name -->
+    <string name="main">Main</string>
+    <string name="temp">Temp</string>
+    <string name="humidity">Humidity</string>
+    <string name="country">Country</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+
+    <!-- Button name -->
+    <string name="check_whether">Check whether</string>
+
 </resources>
